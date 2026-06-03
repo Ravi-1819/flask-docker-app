@@ -1,10 +1,10 @@
-# Dockerized Flask App on AWS EC2
+ *Dockerized Flask App on AWS EC2*
 
-## Project Overview
+** Project Overview
 
 This project demonstrates how to containerize and deploy a Flask web application using Docker on an AWS EC2 instance.
 
-## Technologies Used
+**Technologies Used
 
 * Python
 * Flask
