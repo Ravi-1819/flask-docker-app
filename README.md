@@ -58,12 +58,4 @@ docker pull ravi1819/flask-app:v1
 ## Deployment
 
 The application was deployed on an AWS EC2 instance using Docker and accessed through port 5000.
-
-## Author
-
-Ravi Singh
-
-Aspiring Cloud & DevOps Engineer
-
-```
-```
+done my Flask App project 
